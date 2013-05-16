@@ -1,0 +1,12 @@
+{
+    "media": [
+        {
+            "characterRegex": "[a-z01]",
+            "defName": "FONT_MOON_PHASES_SUBSET_30",
+            "type": "font",
+            "file": "fonts/moon_phases.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
