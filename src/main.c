@@ -25,8 +25,8 @@ TextLayer monthLayer;
 TextLayer riseLayer; // sunrise
 TextLayer setLayer; // sunset
 TextLayer moonLayer; // moon phase
-#define HOUR_VIBRATION_START 6
-#define HOUR_VIBRATION_END 20
+#define HOUR_VIBRATION_START 8
+#define HOUR_VIBRATION_END 0
 	
 GFont font_moon;
 short currentData = -1;
